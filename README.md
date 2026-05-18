@@ -58,7 +58,7 @@
 
 **Схема системы:**
 
-![Architecture](architecture.png)
+![Architecture](screenshots&pics/architecture.png)
 
 ## Как запустить
 1.  Установить зависимости для сервиса: `pip install fastapi uvicorn prometheus-client`.
